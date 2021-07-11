@@ -1,6 +1,6 @@
 ======================================================
 
-Title: ADVANCED TOPICS IN WEB DEVELOPMENT 2 CW1 REPORT
+Title: CW1 REPORT
 =======================================================
 
 
